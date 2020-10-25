@@ -7,6 +7,8 @@
 - 9 unrefined gems (30-50g each) + 1 unrefined ore
     - Split among all party members
 
+- No effect of poison on vampires
+
 - Crown town: popular vacation spot
 - Blue and white wolf Sternbow house from South
 - Udar house golden eagle
@@ -29,6 +31,24 @@
     - Find in the Red Tail Inn in Xanthis
     - Has info about a were-rat in Xanthis
 
+# Loot from Vidar outpost
+
+1800 Cu
+- Military history books
+- 800 gold
+    - Plus my money
+- Pelor statue >50gd with gems
+- Small idols 2x10gd
+- Gems 10gd
+
+
+# Vidar outpost meeting
+
+- Udar haven't moved north. Vidar aren't sure why.
+- Sternbow have moved closer to Vidar borders. Might be a good opportunity to
+  instigate something.
+- Found another spy thanks to dungeon dude.
+
 # Pelor's witnesses
 - Pelor god of light
 - Racist against were-creatures
@@ -39,3 +59,6 @@ Weapon of warning
 - Advantage on initiative
 - Companions within 30ft cannot be surprised except when incapacitated
     - Normal sleep doesn't count
+- 13 poisoned crossbow bolts
+- 50% poison
+
