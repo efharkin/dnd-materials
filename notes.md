@@ -48,6 +48,8 @@
 - Sternbow have moved closer to Vidar borders. Might be a good opportunity to
   instigate something.
 - Found another spy thanks to dungeon dude.
+- Found map of troop movements
+- Yamina (probably) refused to take orders and was killed after attacking a guard
 
 # Pelor's witnesses
 - Pelor god of light
