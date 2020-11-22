@@ -9,6 +9,25 @@
 
 - No effect of poison on vampires
 
+- Sternbow letters to family are very short and didactic, no feelings
+- One of Leylana Sternbow's hairs (probably)
+
+- Edermath is (probably) elven prince of Xandia
+    - Mother was a human noble. Who was she?
+    - Was blamed for the death of few hundred people in the Xandian capital
+      ~150 yrs ago, but talking about what happened is forbidden
+    - Was regarded as brash, tried to serve for several Xandian houses but was
+      turned down
+
+- Paladin Yanich
+    - Broke divine pact when he learned that Yamina being taken
+    - Bahamut, god of justice
+    - New purpose is to take vengeance on Vidar
+    - Yanich's name is well-known throughout the land as a protector
+- Yamina daughter of sad man (Onvor/Yanich) taken to the north
+    - From Udar country
+    - Would have fetched a high price as a sex slave
+
 - Crown town: popular vacation spot
 - Blue and white wolf Sternbow house from South
 - Udar house golden eagle
@@ -24,9 +43,6 @@
 - Arugula innkeeper
 - Vernie tavern owner
     - Has a sword and knows how to use it
-- Yamina daughter of sad man (Onvor) taken to the north
-    - From Udar country
-    - Would have fetched a high price as a sex slave
 - Guts were-bear
     - Find in the Red Tail Inn in Xanthis
     - Has info about a were-rat in Xanthis
