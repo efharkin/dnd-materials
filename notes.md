@@ -47,6 +47,21 @@
     - Find in the Red Tail Inn in Xanthis
     - Has info about a were-rat in Xanthis
 
+# Xanthis
+
+- Capt Rainier
+- Were-rat took over enforcement for the fishing guild
+- Vultures group trying to strong-arm fishermen
+- Le Merf was killed the morning of our arrival
+    - One of my associates was seen nearby
+    - Master of trade
+    - Note in desk that says "Dark Docks: vultures" and a time a few days before death
+        - Sketchy shipping manifest
+        - Boat name "Yorkmoor" and weird accounting might point to a location of sneaky imports
+    - Head bashed in and small hole in back of neck
+    - Not well-liked
+- Ivy Rock people are afraid of guards
+
 # Loot from Vidar outpost
 
 1800 Cu
