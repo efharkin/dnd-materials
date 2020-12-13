@@ -55,12 +55,26 @@
 - Le Merf was killed the morning of our arrival
     - One of my associates was seen nearby
     - Master of trade
-    - Note in desk that says "Dark Docks: vultures" and a time a few days before death
+    - Note in desk that says "Dark Docks: vultures" and a time a few days
+      before death
         - Sketchy shipping manifest
-        - Boat name "Yorkmoor" and weird accounting might point to a location of sneaky imports
+        - Boat name "Yorkmoor" and weird accounting might point to a location of
+          sneaky imports
     - Head bashed in and small hole in back of neck
     - Not well-liked
+    - Everybody is wondering who will take over the Master of trade position
+        - Maybe vultures are planning to take over both Darkdocks and Sundocks?
 - Ivy Rock people are afraid of guards
+- Soul confiscating bracelet was made by dwarves
+- Eastern edge of the dark docks is called the Moor
+
+Questions for demon slayer
+- Canna Kev
+- Musing about possible connections between demonic activity and crown breaking
+    - Maybe connection with haunted bank
+- Demons in general?
+- Do you think haunted bank is actually demonic?
+- What do you do?
 
 # Loot from Vidar outpost
 
