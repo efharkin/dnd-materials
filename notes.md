@@ -68,13 +68,22 @@
 - Soul confiscating bracelet was made by dwarves
 - Eastern edge of the dark docks is called the Moor
 
-Questions for demon slayer
-- Canna Kev
-- Musing about possible connections between demonic activity and crown breaking
+- Demon slayer Canna Kev from university
+- Notes in hotel room have musings about possible connections between demonic
+  activity and crown breaking
     - Maybe connection with haunted bank
+
+Questions for demon slayer:
 - Demons in general?
 - Do you think haunted bank is actually demonic?
 - What do you do?
+
+- Ger fishermen guard
+- Dreldos head of fishermen's guild
+    - Thinks that Vidar might have wanted Le Merth dead to get a better deal in
+      Sundocks
+    - Cattle fair near Heath, North of the main road, large abandoned manor
+      possibly occupied by the Vultures
 
 # Loot from Vidar outpost
 
@@ -106,6 +115,6 @@ Weapon of warning
 - Advantage on initiative
 - Companions within 30ft cannot be surprised except when incapacitated
     - Normal sleep doesn't count
-- 13 poisoned crossbow bolts
+- 11 poisoned crossbow bolts
 - 50% poison
 

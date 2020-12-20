@@ -4,3 +4,30 @@ currency:
   electrum: 96
   silver: 3215
   copper: 960
+weapons:
+  poisoned arrows:
+    count: 11
+  wand of magic missile: 7
+    count: 7
+    hit: auto hit
+    damage: 1d4+1 per missile, first charge emits 3 missiles, 1 missile / charge after
+    note: 1d6+3 recharge at dawn
+  rapier:
+    hit: 8
+    damage: 1d8
+  light crossbow:
+    hit: 8
+    damage: 1d8
+  enchanted dagger:
+    hit: 8
+    damage: 1d4
+    enchantment: weapon of warning; advantage on initiative and cannot be surprised
+  dagger:
+    hit: 8
+    damage: 1d4
+  shortsword:
+    hit: 8
+    damage: 1d6
+  scimitar:
+    hit: "?"
+    damage: "?"
