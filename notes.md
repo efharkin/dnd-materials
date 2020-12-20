@@ -85,6 +85,12 @@ Questions for demon slayer:
     - Cattle fair near Heath, North of the main road, large abandoned manor
       possibly occupied by the Vultures
 
+- 100 gd from bed roll in xanthis manor
+- Glass staff's contact in the crown guard: bald Kozat on sundocks
+- Elves have to let you into forest
+- Talking about elf king and demonic incursions causes spontaneous combustion
+- Need to follow up with Rainier about clearing Chestshine's name
+
 # Loot from Vidar outpost
 
 1800 Cu
