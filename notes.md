@@ -78,6 +78,12 @@ Questions for demon slayer:
 - Do you think haunted bank is actually demonic?
 - What do you do?
 
+- Before dark elves were sent underground, Xandia was the site of an attempt by
+  a demon lord to breach into the mortal realm. The king of the elves somehow
+  sealed the demon lord off. Nobody wants to talk about this. Demon lord might
+  be trying again.
+- Burning elf in the forest when the crown was destroyed.
+
 - Ger fishermen guard
 - Dreldos head of fishermen's guild
     - Thinks that Vidar might have wanted Le Merth dead to get a better deal in
@@ -85,22 +91,10 @@ Questions for demon slayer:
     - Cattle fair near Heath, North of the main road, large abandoned manor
       possibly occupied by the Vultures
 
-- 100 gd from bed roll in xanthis manor
 - Glass staff's contact in the crown guard: bald Kozat on sundocks
 - Elves have to let you into forest
 - Talking about elf king and demonic incursions causes spontaneous combustion
 - Need to follow up with Rainier about clearing Chestshine's name
-
-# Loot from Vidar outpost
-
-1800 Cu
-- Military history books
-- 800 gold
-    - Plus my money
-- Pelor statue >50gd with gems
-- Small idols 2x10gd
-- Gems 10gd
-
 
 # Vidar outpost meeting
 
