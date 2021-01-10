@@ -4,9 +4,6 @@
     - No
 - Light bomb -> lightning lightning
 
-- 9 unrefined gems (30-50g each) + 1 unrefined ore
-    - Split among all party members
-
 - No effect of poison on vampires
 
 - Sternbow letters to family are very short and didactic, no feelings
@@ -73,11 +70,6 @@
   activity and crown breaking
     - Maybe connection with haunted bank
 
-Questions for demon slayer:
-- Demons in general?
-- Do you think haunted bank is actually demonic?
-- What do you do?
-
 - Before dark elves were sent underground, Xandia was the site of an attempt by
   a demon lord to breach into the mortal realm. The king of the elves somehow
   sealed the demon lord off. Nobody wants to talk about this. Demon lord might
@@ -94,7 +86,6 @@ Questions for demon slayer:
 - Glass staff's contact in the crown guard: bald Kozat on sundocks
 - Elves have to let you into forest
 - Talking about elf king and demonic incursions causes spontaneous combustion
-- Need to follow up with Rainier about clearing Chestshine's name
 
 # Vidar outpost meeting
 
