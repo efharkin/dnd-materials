@@ -106,6 +106,6 @@ Weapon of warning
 - Advantage on initiative
 - Companions within 30ft cannot be surprised except when incapacitated
     - Normal sleep doesn't count
-- 11 poisoned crossbow bolts
+- 10 poisoned crossbow bolts
 - 50% poison
 

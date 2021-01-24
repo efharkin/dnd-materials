@@ -6,9 +6,9 @@ currency:
   copper: 1260
 weapons:
   poisoned arrows:
-    count: 11
+    count: 10
   wand of magic missile:
-    count: 7
+    count: 3
     hit: auto hit
     damage: 1d4+1 per missile, first charge emits 3 missiles, 1 missile / charge after
     note: 1d6+3 recharge at dawn
