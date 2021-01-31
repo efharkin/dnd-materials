@@ -1,9 +1,9 @@
 currency:
   platinum: 5
-  gold: 1256
+  gold: 1272
   electrum: 96
-  silver: 3215
-  copper: 1260
+  silver: 3247
+  copper: 1402
 weapons:
   poisoned arrows:
     count: 10
