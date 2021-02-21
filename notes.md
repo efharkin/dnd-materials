@@ -87,6 +87,8 @@
 - Elves have to let you into forest
 - Talking about elf king and demonic incursions causes spontaneous combustion
 
+- Rare book on cat breeding
+
 # Vidar outpost meeting
 
 - Udar haven't moved north. Vidar aren't sure why.
