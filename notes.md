@@ -87,7 +87,10 @@
 - Elves have to let you into forest
 - Talking about elf king and demonic incursions causes spontaneous combustion
 
-- Rare book on cat breeding
+- We have its attention (fire voice after killing shadow monster in haunted bank)
+- Fire voice is related to crown destruction somehow
+- Elves don't have control over who enters forest
+- Zinaldo Nanimzo
 
 # Vidar outpost meeting
 
