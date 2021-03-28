@@ -90,7 +90,28 @@
 - We have its attention (fire voice after killing shadow monster in haunted bank)
 - Fire voice is related to crown destruction somehow
 - Elves don't have control over who enters forest
-- Zinaldo Nanimzo
+- Zinaldo Nanimzo, Vidar loyalist and tea master
+- Extract Rarbo Snakelight, Vidar brother fallen out of favour with the rest of
+  the family seeking to defect before he is killed
+- Tea party in three days
+- Back alley can be used as a "demonstration area" for weapons
+- Bathroom has a window for emptying chamber pot that a person could fit through
+- Pre-paid for sequined cloak
+
+# Operation Rarbo
+
+## Ideal plan
+
+1. Welcome to the Chestshine Enterprises Experience
+2. Emric hands mace to Elvis who uses it to smash gargoyle, Aelin casts major
+   illusion to cover gargoyle sinking into the ground
+3. Sometimes defensive items are needed. Chestshine asks for Rarbo to volunteer
+   for a demo. Lightning steps forward and drapes cloak over Rarbo, casting
+   invisibility. Aelin casts major illusion to make Rarbo appear in bathroom.
+
+## Backup plans
+
+- Violence
 
 # Vidar outpost meeting
 
